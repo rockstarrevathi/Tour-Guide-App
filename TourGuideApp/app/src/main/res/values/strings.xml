@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Best Of Stillwater</string>
+
+    <!-- Not applicable string -->
+    <string name="not_applicable">n/a</string>
+
+    <!-- Page Titles -->
+    <string name="parks">parks</string>
+    <string name="food">Food</string>
+    <string name="fun">Fun</string>
+    <string name="fitness">Fitness</string>
+
+
+
+    <!-- Park resources -->
+    <string name="boomer_park_name">Boomer Lake Park</string>
+    <string name="boomer_park_hours">10AM–8PM</string>
+    <string name="boomer_park_address">Lakeview Road,still water, OK 74075</string>
+    <string name="boomer_park_phone"> (405) 747-8070</string>
+    <string name="boomer_park_description">
+        Large, great resting place. Has a park and a lake. Great for jogging and biking.  Water splash pad is fit for smaller audience. Water park near library is more entertaining.
+    </string>
+
+    <string name="strickland_park_name">Strickland Park</string>
+    <string name="strickland_park_hours"> Open 24 hours</string>
+    <string name="strickland_park_address">N Main St,W Hall of Fame Ave, Still water, OK 74075</string>
+    <string name="strickland_park_description">
+        Its a nice park with a younger kids area and an older kids area put into one playground..
+    </string>
+
+    <!-- End Park Strings -->
+
+    <!-- Food Strings -->
+    <string name="louie_name">Louie\'s Grill Bar</string>
+    <string name="louie_phone">(405) 707-7200</string>
+    <string name="louie_address">720 S Main St, Stillwater, OK 74074</string>
+    <string name="louie_description">
+        Casual hangout with sports on TV , a menu of classic American pub fare.
+    </string>
+
+    <string name="texas_name">Texas Roadhouse</string>
+    <string name="texas_phone">(405) 707-7427</string>
+    <string name="texas_address">2000 N Perkins Rd, Stillwater, OK 74075</string>
+    <string name="texas_description">
+        Lively chain steakhouse serving American fare with a Southwestern spin amid Texas-themed decor.
+    </string>
+
+
+
+    <!-- Fun Resources -->
+    <string name="amc_rock_name">AMC Stillwater 10</string>
+    <string name="amc_rock_phone">405-372-0349</string>
+    <string name="amc_rock_address">1909 N. Perkins Rd ,Stillwater, OK 74075</string>
+    <string name="amc_rock_description">
+       Enjoy your movie-going experience at AMC Stillwater. The theatre features stadium seating, RealD 3D, an arcade and full concession stands.
+    </string>
+
+    <string name="bowling_name">Frontier Lanes Bowling Alley</string>
+    <string name="bowling_phone">405-372-8584</string>
+    <string name="bowling_address">3524 N. Washington St, Stillwater, OK 74075</string>
+    <string name="bowling_description">
+        Tactical lasertag with realistic weapons. Also offers tactical training courses.
+    </string>
+
+
+
+    <!-- Fitness resources -->
+
+    <string name="gymone_name">Gym One</string>
+    <string name="gymone_phone">(405) 743-4961</string>
+    <string name="gymone_address">1317 S Western Rd, Stillwater, OK 74074</string>
+    <string name="gymone_description">
+Gym one is an amazing facility that offers a ton of different options for group fitness, individual training, and has a whole host of professional certified personal trainers.    </string>
+
+    <string name="youth_name">Youth Fitness Zone</string>
+    <string name="youth_phone">(405) 533-4033</string>
+    <string name="youth_address">4609 Territory Lane, Stillwater, OK 74075</string>
+    <string name="youth_description">
+        STILLWATER’S FINEST
+All-Inclusive, Family-Focused Training Facility!
+    </string>
+
+
+</resources>
